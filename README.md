@@ -20,7 +20,7 @@ curl -X POST "http://localhost:9393/slack/channels" \
 curl -X GET "http://192.168.59.103:49154/slack/channels"
 ```
 
-### Unsubscribe a challen
+### Unsubscribe a channel
 
 
 ```
